@@ -66,16 +66,23 @@ This project uses the **MovieLens 20M Dataset**:
 ## Screenshots
 
 **1. Home Screen / Dataset Load**
+
 ![Home Screen](mainpage.png)
 
 **2. Column Info Display**
-![Column Info](screenshots/column_info.png)
+
+![Column Info](columninformation.png)
 
 **3. Graph Selection**
-![Graph Selection](screenshots/graph_selection.png)
+
+![Graph Selection](graphtypesel.png)
 
 **4. Generated Plot**
-![Generated Plot](screenshots/generated_plot.png)
+
+![Generated Plot](samplegraph.png)
+
+![Generated Plot](customgraphsample.png)
+
 
 ---
 
