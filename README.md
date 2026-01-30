@@ -66,7 +66,7 @@ This project uses the **MovieLens 20M Dataset**:
 ## Screenshots
 
 **1. Home Screen / Dataset Load**
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](mainpage.png)
 
 **2. Column Info Display**
 ![Column Info](screenshots/column_info.png)
